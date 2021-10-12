@@ -2,6 +2,4 @@ Welcome to the Class Repository for University of Central Florida Data Visualiza
 
 ![Weekly Class Schedule](./Images/Weekly%20Calendar.jpg)
 
-Module 1: Kickstaring with Excel:
 
-![Planning Schedule](./Images/01-Lesson-Planning-Your-Schedule.jpg)
