@@ -1,6 +1,6 @@
 Module 1: Kickstaring with Excel:
 
-Day_1 will cover Module 1 from 1.0.1 Excelling with Excel through 1.4.2 VLOOKUP.
+Day_1 will cover Module 1 from **1.0.1 Excelling with Excel** through **1.4.2 VLOOKUP**.
 We will cover the following concepts, techniques and task as part of Day_1 (Tuesday):
 * Downloading and installing Excel
 * Downloading the StarterBook.xlsx for the module.
