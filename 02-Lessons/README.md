@@ -19,3 +19,11 @@
 * Make the Worksheet Readable (2 hours)
 * Make the Worksheet Interactive (1 hour 15 minutes)
 * Application (5 hours)
+
+# Make sure you are ready for class by downloading the Virtual Class files from canvas 
+
+[2-1-Student-Resources.zip](https://2u-data-curriculum-team.s3.amazonaws.com/data-viz-online-lesson-plans/02-Lessons/2-1-Student-Resources.zip)
+
+[2-2-Student-Resources.zip](https://2u-data-curriculum-team.s3.amazonaws.com/data-viz-online-lesson-plans/02-Lessons/2-2-Student-Resources.zip)
+
+### (or perform a git pull from the class repo)
