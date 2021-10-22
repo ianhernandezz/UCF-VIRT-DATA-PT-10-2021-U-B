@@ -1,4 +1,5 @@
-![Module 2 Roadmap](./Images/Module_2_Roadmap.png)
+<img src="./Images/Module_2_Roadmap.png" alt="Module 2 Roadmap" height="400"/>
+
 
 # What You Will Learn
 ### By the end of this module, you will be able to:
