@@ -27,3 +27,9 @@
 [2-2-Student-Resources.zip](https://2u-data-curriculum-team.s3.amazonaws.com/data-viz-online-lesson-plans/02-Lessons/2-2-Student-Resources.zip)
 
 ### (or perform a git pull from the class repo)
+
+
+# Also enable the Developer Tab in Excel
+### Outlined in module 2.1.1 Install Developer Tools
+
+# Start with the endstate in mind and create a github repository for your "stock-analysis"
