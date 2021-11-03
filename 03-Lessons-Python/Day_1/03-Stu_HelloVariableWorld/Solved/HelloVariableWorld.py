@@ -29,4 +29,4 @@ print("You are " + str(age) + " years old")
 print(f"You make {daily_wage} per day")
 
 # With an f-string, print out whether the users were satisfied
-print(f"Are you satisfied with your current wage? {satisfied}")
+print(f'Jamie  \"old\" current wage? {satisfied}')
