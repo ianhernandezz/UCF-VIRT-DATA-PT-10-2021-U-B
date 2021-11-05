@@ -16,5 +16,6 @@ with open(file_outpath, 'w') as textfile:
 
     # Write the text to the file.
     textfile.write(employee_data)
+    textfile.write("something else")
     # Print the data to the screen.
     print(employee_data)

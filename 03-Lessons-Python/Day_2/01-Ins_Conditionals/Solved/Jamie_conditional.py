@@ -1,9 +1,11 @@
-
-# set values for x and y
+# set values for variables x, y
 x = 1
 y = 10
 
-# Checks if one value is equal to another
+print(x)
+print(y)
+
+# check if one value is equal to another
 if x == 1:
     print("x is equal to 1")
 
@@ -13,11 +15,7 @@ if y != 1:
 
 # Checks if one value is less than another
 if x < y:
-    print("x is less than y")
-
-# Checks if one value is greater than another
-if y > x:
-    print("y is greater than x")
+    print("x is less than y")    
 
 # Checks if a value is less than or equal to another
 if x >= 1:
@@ -30,12 +28,3 @@ if x == 1 and y == 10:
 # Checks if either of two conditions is met
 if x < 45 or y < 5:
     print("One or more of the statements were true")
-
-# Nested if statements
-if x < 10:
-    if y < 5:
-        print("x is less than 10 and y is less than 5")
-    elif y == 5:
-        print("x is less than 10 and y is equal to 5")
-    else:
-        print("x is less than 10 and y is greater than 5")
