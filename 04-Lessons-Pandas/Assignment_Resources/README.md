@@ -1,4 +1,4 @@
-# Challenge Solution Expanded Instructions
+# Challenge Expanded Instructions
 
 The objective of this challenge is for learners to replace the reading and math scores of the ninth graders at Thomas High School with `NaN` using the `loc` method with conditional statements and comparison or logical operators.  Then the learners will need to repeat the school district analysis they did in the module but this time they'll have to take into account that the ninth graders at Thomas High School can't be included to calculate the district summary and school summary passing percentages. Finally, the learners will write a report describing how the replacement of the reading and math scores affected the overall school district analysis compared to the original analysis.
 
