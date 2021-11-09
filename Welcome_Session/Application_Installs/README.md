@@ -1,5 +1,13 @@
-# The following is a partial list of applications you will need to install for the course.
+# We will be using many tools. Select the link to your operating system for detailed instructions.
 Note: Your and Instructor and TA are available to assist you with your installation quesitons during office hours. 
+
+[Get Your Tools Installed (Mac)](https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/get-yo-tools-installed-on-mac/)
+
+[Get Your Tools Installed (Windows)](https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/get-yo-tools-installed-on-windows/)
+
+[Python and Anaconda for Mac and Windows](https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/curling-up-with-python/)
+
+The following is a partial list of applications you will need to install for the course.
 
 * Google Chrome
 * Slack
@@ -18,11 +26,6 @@ You should also create accounts on the following websites:
 * GitHub
 * Stack Overflow
 
-[Get Your Tools Installed (Mac)](https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/get-yo-tools-installed-on-mac/)
 
-
-[Get Your Tools Installed (Windows)](https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/get-yo-tools-installed-on-windows/)
-
-[Python and Anaconda for Mac and Windows](https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/curling-up-with-python/)
 
 
