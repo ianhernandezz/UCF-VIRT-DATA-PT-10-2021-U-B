@@ -17,3 +17,8 @@ The activities in this class will complement **Lessons 4.0.1: Using Pandas and J
 * The value_counts() method was covered in Lesson 4.8.2.
 * The describe() method was covered in Lesson 4.11.1.
 * The rename() function and the .copy() method are covered in later modules.
+
+## Other Resources:
+
+[Pandas Getting Started](https://pandas.pydata.org/getting_started.html)
+
