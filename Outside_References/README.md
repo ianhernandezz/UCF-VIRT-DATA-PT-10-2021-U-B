@@ -51,6 +51,6 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Python for Data Analysis - Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[Python Data Science Handbook - Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Github Docs: Basic writing and fomatting of README.md files](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
