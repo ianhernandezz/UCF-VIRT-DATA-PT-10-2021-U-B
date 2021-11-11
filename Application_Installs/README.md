@@ -26,6 +26,28 @@ You should also create accounts on the following websites:
 * GitHub
 * Stack Overflow
 
+Direct links to many of the applications used in the class:
+
+[Mongo DB (windows)](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+
+[Python](https://www.python.org/downloads/)
+
+[Anaconda](https://www.anaconda.com/products/individual)
+
+[Excel (free version)](https://www.microsoft.com/en-us/microsoft-365/try)
+
+[Git bash](https://git-scm.com/downloads)
+
+[Git Hub Desktop (GUI for Git)](https://desktop.github.com/)
+
+[Homebrew (Mac only)](https://brew.sh/)
+
+[SSH Keys (Mac)](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x)
+
+[SSH Keys (Windows)](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
+
+[VS code](https://code.visualstudio.com/download)
+
 
 
 
