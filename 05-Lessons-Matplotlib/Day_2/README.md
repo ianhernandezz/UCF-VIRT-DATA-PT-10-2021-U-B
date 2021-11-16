@@ -19,3 +19,5 @@ By the end of class, students will be able to:
 <img src="./../Images/matplotlib_gallery_docs.png" alt="maplotlib gallery and docs" height="400"/>
 
 [matplotlib gallery, tutorials, examples and documentation](https://matplotlib.org/stable/gallery/index.html)
+
+[Python Data Science Handbook Chapter 4: Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
