@@ -27,4 +27,4 @@ Here's a quick look at the lessons and assignments you'll cover in this module. 
 
 <img src="./Images/matplotlib_gallery_docs.png" alt="maplotlib gallery and docs" height="400"/>
 
-[matplotlib gallery, tutorials, examples and documentation](https://matplotlib.org/stable/gallery/index.html)
+[matplotlib gallery, tutorials, examples and documentation](https://matplotlib.org/stable/)
