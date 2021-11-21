@@ -15,6 +15,14 @@ By the end of class, you will be able to:
 * Parse and traverse through JSON objects
 * Handle errors by using try-except blocks
 
+The activities in this class will complement lessons **6.2.1 Understanding APIs through 6.2.7 Create a DataFrame of City Weather Data** . You will benefit from these activities if they've progressed through these lessons, which cover the following concepts, techniques, and tasks:
+
+* Making API calls using Python's request library
+* Traversing JSONs
+* Using try-except blocks for error handling
+* Making calls to different APIs
+* Storing API data in Pandas DataFrames
+
 ## Where can you find information on the tasks covered in this Day_1 of APIs?
  * Using the Python request library to make API calls was covered in **Lesson 6.2.3**.
  * Retrieving a response and getting data were covered in **Lesson 6.2.4**.

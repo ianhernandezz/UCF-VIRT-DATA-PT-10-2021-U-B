@@ -17,6 +17,7 @@ By the end of this module, you will be able to:
 * Create heatmaps, and add markers using the Google Maps API.
 
 
+
 ## Planning Your Schedule
 Here's a quick look at the lessons and assignments you'll cover in this module. You can use the time estimates to help pace your learning and plan your schedule.
 
