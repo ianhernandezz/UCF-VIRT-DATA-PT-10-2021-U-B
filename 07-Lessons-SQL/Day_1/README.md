@@ -1,5 +1,7 @@
 # Module 7 Class 1: Getting Started with pgAdmin and SQL
 
+<img src="./Images/Module_7_Roadmap.png" alt="Module 7 Roadmap" height="400"/>
+
 ## Learning Objectives
 
 By the end of class, you will be able to:

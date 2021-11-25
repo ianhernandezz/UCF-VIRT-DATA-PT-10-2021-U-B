@@ -54,3 +54,9 @@ During our virtual classes several references come up. This attemps to capture m
 [Python Data Science Handbook - Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Github Docs: Basic writing and fomatting of README.md files](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[PostgreSQL Documentation](https://www.postgresql.org/docs/manuals/)
+
+[pgAdmin Documentation](https://www.pgadmin.org/docs/)
+
+[PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
