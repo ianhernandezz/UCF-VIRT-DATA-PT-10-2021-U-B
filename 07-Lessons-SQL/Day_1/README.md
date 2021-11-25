@@ -35,3 +35,6 @@ The activities in this class will complement Lessons **7.0.1: Exploring Database
   * Creating a new table from a query was covered in **Lesson 7.3.1**.
   * The `WHERE` clause was covered in **Lesson 7.3.1**.
   * Using joins was covered in **Lesson 7.3.3**.
+
+## Additional References
+[postgresql joins](https://www.techonthenet.com/postgresql/joins.php)
