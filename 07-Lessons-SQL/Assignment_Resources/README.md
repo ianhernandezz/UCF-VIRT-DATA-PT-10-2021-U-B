@@ -24,7 +24,7 @@ For the first deliverable, we are asking the learners to create three tables.
 
 * To get the number of employees by job title they will need to retrieve the number of titles from unique titles table. Then the data should be grouped by titles and sorted by the number of titles in descending order, and added to a new table, then exported as `retiring_titles.csv` into the Data folder of their Pewlett-Hackard-Analysis folder.
 
-![The retiring title table ordered by title and sorted by count in descending order.](../Assignment_Resources/retirement_titles.png)
+![The retiring title table ordered by title and sorted by count in descending order.](../Assignment_Resources/retiring_titles.png)
 
 ## Deliverable 2: The eligible employees for the mentorship program
 
