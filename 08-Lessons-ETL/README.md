@@ -6,6 +6,8 @@
 This week, we will be introducing the Extract, Transform, Load (ETL) process. In this unit, you will learn to use Python functions, list comprehensions, and regular expressions, as well as how to move data through a pipeline.
 
 ## What You Will Learn
+<img src="./Images/data-8-1-1-1-extract-transform-load.png" alt="Module 8 - ETL" height="200"/>
+
 By the end of this module, you will be able to: 
 
 * Create an ETL pipeline from raw data to a SQL database.
