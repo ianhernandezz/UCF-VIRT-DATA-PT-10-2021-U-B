@@ -11,6 +11,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Good Code Writing Practices (Helps in debugging and reading)](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
 
+[HTTPS status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+
 [Understanding arrays (initializing and referring)](https://press.rebus.community/programmingfundamentals/chapter/arrays-and-lists/)
 
 [w3schools - online tutorials on python](https://www.w3schools.com/python/default.asp)
@@ -79,7 +81,7 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Seaborn](https://seaborn.pydata.org/index.html)
 
-### PostgreSQL and pgAdmin
+### SQL PostgreSQL and pgAdmin
 
 [PostgreSQL Documentation](https://www.postgresql.org/docs/manuals/)
 
@@ -88,3 +90,6 @@ During our virtual classes several references come up. This attemps to capture m
 [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
 
 [PostgreSQL Cheet Sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+
+[SQL Order of Operations](https://www.sisense.com/blog/sql-query-order-of-operations/)
+
