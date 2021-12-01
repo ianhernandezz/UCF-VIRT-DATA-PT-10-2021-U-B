@@ -39,6 +39,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Github Docs: Basic writing and fomatting of README.md files](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+[ADding git to Windows path](https://www.answerlookup.com/how-add-git-windows-path-environment-variable)
+
 ### Python
 
 [w3schools - online tutorials on python](https://www.w3schools.com/python/default.asp)
@@ -66,6 +68,9 @@ During our virtual classes several references come up. This attemps to capture m
 [10 Minutes to Pandas - Code](https://pandas.pydata.org/docs/user_guide/10min.html)
 
 [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+### Jupyter Notebook / Lab
+[tip on using replace option in JupyterLab](https://i.stack.imgur.com/qdXOY.gif)
 
 ### Matplotlib
 
