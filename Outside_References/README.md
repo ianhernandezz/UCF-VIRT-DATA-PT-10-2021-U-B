@@ -108,5 +108,5 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Youtube: Regex Basics | Regular Expressions Tutorial for Beginners](https://www.youtube.com/watch?v=jCAyQ7C71m4)
 
-
+[REGEX Cheat sheet by David Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/)
 
