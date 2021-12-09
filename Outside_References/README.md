@@ -98,9 +98,9 @@ During our virtual classes several references come up. This attemps to capture m
 
 [SQL Order of Operations](https://www.sisense.com/blog/sql-query-order-of-operations/)
 
-### Regular Expressions (Regex)
+### Regular Expressions (Regex / RE)
 
-[Python Regex Documentation](https://docs.python.org/3/library/re.html#module-re)
+[Python Documentation for RE module](https://docs.python.org/3/library/re.html#module-re)
 
 [W3 Schools Python RegEx](https://www.w3schools.com/python/python_regex.asp)
 
