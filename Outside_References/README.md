@@ -25,6 +25,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Story Telling with Data (SWD)](https://www.storytellingwithdata.com/)
 
+[The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+
 ### Excel
 
 [Excel XLOOKUP](https://www.youtube.com/watch?v=4c0CLUER6nw)
@@ -58,6 +60,8 @@ During our virtual classes several references come up. This attemps to capture m
 [Python for Data Analysis - Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 
 [Python Data Science Handbook - Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Real Pthon Website](https://realpython.com/)
 
 ### Pandas
 
