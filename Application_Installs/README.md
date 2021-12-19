@@ -28,7 +28,9 @@ You should also create accounts on the following websites:
 
 Direct links to many of the applications used in the class:
 
-[Mongo DB (windows)](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+[Mongo DB Community Edition on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+
+[Mongo DB Communnity Edition on Mac](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 
 [Python](https://www.python.org/downloads/)
 
