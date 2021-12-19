@@ -28,7 +28,7 @@ def scrape():
     costa_data = scrape_costa.scrape_info()
 
     # Update the Mongo database using update and upsert=True
-    mongo.db.collection.update({}, costa_data, upsert=True)
+    mongo.db.collection.update_one({}, {"$set": costa_data}, upsert=True)
 
     # Redirect back to home page
     return redirect("/")

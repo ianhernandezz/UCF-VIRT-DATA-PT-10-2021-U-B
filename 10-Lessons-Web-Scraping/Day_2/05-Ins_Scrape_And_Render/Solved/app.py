@@ -22,7 +22,7 @@ def index():
 def scraper():
     listings = mongo.db.listings
     listings_data = scrape_craigslist.scrape()
-    listings.update({}, listings_data, upsert=True)
+    listings.update_one({}, {"$set": listings_data}, upsert=True)
     return redirect("/", code=302)
 
 
