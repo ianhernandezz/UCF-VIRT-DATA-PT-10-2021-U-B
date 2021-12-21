@@ -15,7 +15,7 @@ Other tools:
 * html5lib and lxml
 
 ## What You Will Learn
-<img src="./Images/Module_10_Roadmap.png" alt="Module 10 Web-Scraping" height="200"/>
+<img src="./Images/Module_10_Roadmap.png" alt="Module 10 Web-Scraping" height="400"/>
 
 By the end of this module, you will be able to: 
 
