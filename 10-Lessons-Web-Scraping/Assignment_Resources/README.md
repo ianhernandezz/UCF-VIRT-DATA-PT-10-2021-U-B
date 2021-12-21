@@ -1,7 +1,7 @@
 # Challenge Expanded Instructions
 The objective of this challenge is for learners to scrape high-resolution images of Mars’ hemispheres and titles, update the Mongo database, and modify the `index.html` file so the webpage contains all the information collected in this module as well as the full-resolution images and titles of the four hemispheres.
 
-## Deliverable 1: Scrape Full-Resolution Mars Hemisphere mages and Titles
+## Deliverable 1: Scrape Full-Resolution Mars Hemisphere images and Titles
 
 For the first deliverable, we are asking the learners to scrape high-resolution images of Mars’ hemispheres and their titles.
 
