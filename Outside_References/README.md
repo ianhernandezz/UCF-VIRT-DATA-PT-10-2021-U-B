@@ -161,3 +161,9 @@ During our virtual classes several references come up. This attemps to capture m
 [MongoDB Compass](https://www.mongodb.com/try/download/compass)
 
 [MongoDB Shell](https://www.mongodb.com/try/download/shell)
+
+### JavaScript
+
+[W3 Schools JavaScript tutorial](https://www.w3schools.com/js/default.asp)
+
+[JavaScript & JQuery Book](https://javascriptbook.com/)

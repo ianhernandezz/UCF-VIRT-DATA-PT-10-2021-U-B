@@ -1,4 +1,4 @@
-# Unit 14 - Intro to Javascript
+# Unit 12 - Intro to Javascript
 
 <img src="./Images/JavaScript_Dr_Reed.png" alt="Module 11 JavaScript" height="200"/>
 
