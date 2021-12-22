@@ -61,7 +61,7 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Python Data Science Handbook - Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-[Real Pthon Website](https://realpython.com/)
+[Real Python Website](https://realpython.com/)
 
 ### Pandas
 
@@ -72,9 +72,6 @@ During our virtual classes several references come up. This attemps to capture m
 [10 Minutes to Pandas - Code](https://pandas.pydata.org/docs/user_guide/10min.html)
 
 [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-
-### Jupyter Notebook / Lab
-[tip on using replace option in JupyterLab](https://i.stack.imgur.com/qdXOY.gif)
 
 ### Matplotlib
 
@@ -89,6 +86,32 @@ During our virtual classes several references come up. This attemps to capture m
 [From Data to Viz](https://www.data-to-viz.com/)
 
 [Seaborn](https://seaborn.pydata.org/index.html)
+
+### Jupyter Notebook / Lab
+[Jupyter Documentation](https://jupyter.org/documentation)
+
+[Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
+
+[Jupyter Lab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
+
+[tip on using replace option in JupyterLab](https://i.stack.imgur.com/qdXOY.gif)
+
+### Visual Studio Code & Extentions
+[Visual Studio Code](https://code.visualstudio.com/docs)
+
+[Adding a File Extension](https://code.visualstudio.com/docs/languages/overview#_adding-a-file-extension-to-a-language)<br>
+* Edit CSV
+* SQLite
+* Live Server 
+
+### API Sites
+[Openweathermap.org](https://openweathermap.org/api)
+
+[Google Cloud Console](https://console.cloud.google.com/getting-started)
+* Maps JavaScrip API
+* Places API
+* Geocoding API
+* Directions API
 
 ### SQL PostgreSQL and pgAdmin
 
@@ -114,3 +137,27 @@ During our virtual classes several references come up. This attemps to capture m
 
 [REGEX Cheat sheet by David Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/)
 
+### Google Chrome Dev Tools and Extentions
+[Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+
+[Chrome Extentions](https://developer.chrome.com/docs/extensions/)
+* JSON Formatter
+
+### HTML & CSS / Bootstrap Templates
+[Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[W3 Schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
+
+[W3 Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
+
+[HTML&CSS Book](https://www.htmlandcssbook.com/)
+
+[Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+
+### Mongo Database
+
+[MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)
+
+[MongoDB Compass](https://www.mongodb.com/try/download/compass)
+
+[MongoDB Shell](https://www.mongodb.com/try/download/shell)
