@@ -167,3 +167,7 @@ During our virtual classes several references come up. This attemps to capture m
 [W3 Schools JavaScript tutorial](https://www.w3schools.com/js/default.asp)
 
 [JavaScript & JQuery Book](https://javascriptbook.com/)
+
+### Plotly.js
+
+[Plotly.js Graphing Library](https://plotly.com/javascript/)
