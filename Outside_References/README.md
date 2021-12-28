@@ -168,6 +168,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [W3 Schools JavaScript tutorial](https://www.w3schools.com/js/default.asp)
 
+[W3 Schools JS.D3 tutorial](https://www.w3schools.com/js/js_graphics_d3js.asp)
+
 [JavaScript & JQuery Book](https://javascriptbook.com/)
 
 [JavaScript Tutorial](https://watchandcode.com/p/practical-javascript)
