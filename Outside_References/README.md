@@ -164,9 +164,21 @@ During our virtual classes several references come up. This attemps to capture m
 
 ### JavaScript
 
+[Interactive JavaScript Sheet](http://htmlcheatsheet.com/js/)
+
 [W3 Schools JavaScript tutorial](https://www.w3schools.com/js/default.asp)
 
 [JavaScript & JQuery Book](https://javascriptbook.com/)
+
+[JavaScript Tutorial](https://watchandcode.com/p/practical-javascript)
+
+[ES6 Reference guide.pdf](./ES6_Reference_Guide.pdf)
+
+[JavaScript Data Functions](./JavaScript_Data_Functions.pdf)
+
+[JavaScript Reference Guide](./JavaScript_Reference_Guide.pdf)
+
+[You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ### Plotly.js
 
