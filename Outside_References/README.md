@@ -162,7 +162,7 @@ During our virtual classes several references come up. This attemps to capture m
 
 [MongoDB Shell](https://www.mongodb.com/try/download/shell)
 
-### JavaScript
+### JavaScript & D3
 
 [Interactive JavaScript Sheet](http://htmlcheatsheet.com/js/)
 
@@ -181,6 +181,8 @@ During our virtual classes several references come up. This attemps to capture m
 [JavaScript Reference Guide](./JavaScript_Reference_Guide.pdf)
 
 [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+
+[D3 reference](https://d3js.org/)
 
 ### Plotly.js
 
