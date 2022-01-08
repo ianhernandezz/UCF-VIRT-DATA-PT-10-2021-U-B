@@ -113,6 +113,8 @@ During our virtual classes several references come up. This attemps to capture m
 * Geocoding API
 * Directions API
 
+[mapbox](https://www.mapbox.com/)
+
 ### SQL PostgreSQL and pgAdmin
 
 [PostgreSQL Documentation](https://www.postgresql.org/docs/manuals/)
@@ -187,3 +189,9 @@ During our virtual classes several references come up. This attemps to capture m
 ### Plotly.js
 
 [Plotly.js Graphing Library](https://plotly.com/javascript/)
+
+### Leafletjs
+
+[Leafletjs.com](https://leafletjs.com/)
+
+[mapbox](https://www.mapbox.com/)
