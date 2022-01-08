@@ -166,6 +166,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 ### JavaScript & D3
 
+[Mozilla JavaScript site](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [Interactive JavaScript Sheet](http://htmlcheatsheet.com/js/)
 
 [W3 Schools JavaScript tutorial](https://www.w3schools.com/js/default.asp)
