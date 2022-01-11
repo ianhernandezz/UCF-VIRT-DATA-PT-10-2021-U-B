@@ -2,6 +2,6 @@ Welcome to the Class Repository for University of Central Florida Data Visualiza
 
 ![Weekly Class Schedule](./Images/Weekly%20Calendar.jpg)
 
-Jamie
+Instructor Jamie Miller
 
 
