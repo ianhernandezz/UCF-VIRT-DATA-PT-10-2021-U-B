@@ -197,3 +197,23 @@ During our virtual classes several references come up. This attemps to capture m
 [Leafletjs.com](https://leafletjs.com/)
 
 [mapbox](https://www.mapbox.com/)
+
+### Tableau
+
+[Tableau Public signup](https://public.tableau.com/en-us/s/)
+
+[Newest Releases of Tableau Public](https://www.tableau.com/support/releases)
+
+[Tableau Example Connections Overview](https://help.tableau.com/current/pro/desktop/en-us/exampleconnections_overview.htm)
+
+[CitiBike New York System Data Page](https://ride.citibikenyc.com/system-data)
+
+[Tableau Dashboards Best Practices](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm)
+
+[Tableau Public Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day)
+
+[Tableau Support](https://www.tableau.com/support)
+
+[Tableau Search Tips](https://www.tableau.com/support/site-search-tips)
+
+[Tableau Tips for making your dashboards more performant](https://www.tableau.com/about/blog/2016/1/5-tips-make-your-dashboards-more-performant-48574)
