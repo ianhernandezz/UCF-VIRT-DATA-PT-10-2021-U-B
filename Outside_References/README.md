@@ -198,6 +198,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [mapbox](https://www.mapbox.com/)
 
+[Mapbox Styles API](https://docs.mapbox.com/api/maps/styles/)
+
 ### Tableau
 
 [Tableau Public signup](https://public.tableau.com/en-us/s/)
