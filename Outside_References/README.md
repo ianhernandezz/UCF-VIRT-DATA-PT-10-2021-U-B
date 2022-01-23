@@ -223,3 +223,5 @@ During our virtual classes several references come up. This attemps to capture m
 ### R
 
 [R Introduction documentation](https://courses.bootcampspot.com/courses/941/pages/15-dot-2-1-fundamentals-of-r-programming?module_item_id=344077)
+
+[R Studio Keyboard Shortcuts]()

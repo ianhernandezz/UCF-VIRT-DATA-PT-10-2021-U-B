@@ -41,6 +41,10 @@ Here's a quick look at the lessons and assignments you'll cover in this module. 
 ### Links
 * [R Introduction documentation](https://courses.bootcampspot.com/courses/941/pages/15-dot-2-1-fundamentals-of-r-programming?module_item_id=344077)
 
+* [W3 Schools R Tutorial](https://www.w3schools.com/r/default.asp)
+
+
+
 
 ---
 
