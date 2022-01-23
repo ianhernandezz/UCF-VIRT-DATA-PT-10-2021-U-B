@@ -219,3 +219,7 @@ During our virtual classes several references come up. This attemps to capture m
 [Tableau Search Tips](https://www.tableau.com/support/site-search-tips)
 
 [Tableau Tips for making your dashboards more performant](https://www.tableau.com/about/blog/2016/1/5-tips-make-your-dashboards-more-performant-48574)
+
+### R
+
+[R Introduction documentation](https://courses.bootcampspot.com/courses/941/pages/15-dot-2-1-fundamentals-of-r-programming?module_item_id=344077)
