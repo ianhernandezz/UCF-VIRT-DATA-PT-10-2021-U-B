@@ -43,7 +43,13 @@ Here's a quick look at the lessons and assignments you'll cover in this module. 
 
 * [W3 Schools R Tutorial](https://www.w3schools.com/r/default.asp)
 
+* [R Graphics Cookbook](http://www.cookbook-r.com/)
 
+* [tidyverse](https://www.tidyverse.org/)
+
+  - [dplyr](https://dplyr.tidyverse.org/)
+
+  - [ggplot](https://ggplot2.tidyverse.org/)
 
 
 ---
