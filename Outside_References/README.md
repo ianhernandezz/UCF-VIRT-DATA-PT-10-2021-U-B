@@ -164,6 +164,14 @@ During our virtual classes several references come up. This attemps to capture m
 
 [MongoDB Shell](https://www.mongodb.com/try/download/shell)
 
+### Web Scraping and Flask
+
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+[Flask](https://flask.palletsprojects.com/en/2.0.x/)
+
+[Jinja templates](https://jinja.palletsprojects.com/en/3.0.x/templates/)
+
 ### JavaScript & D3
 
 [Mozilla JavaScript site](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -223,5 +231,3 @@ During our virtual classes several references come up. This attemps to capture m
 ### R
 
 [R Introduction documentation](https://courses.bootcampspot.com/courses/941/pages/15-dot-2-1-fundamentals-of-r-programming?module_item_id=344077)
-
-[R Studio Keyboard Shortcuts]()
