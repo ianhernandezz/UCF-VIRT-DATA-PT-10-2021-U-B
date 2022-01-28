@@ -231,3 +231,25 @@ During our virtual classes several references come up. This attemps to capture m
 ### R
 
 [R Introduction documentation](https://courses.bootcampspot.com/courses/941/pages/15-dot-2-1-fundamentals-of-r-programming?module_item_id=344077)
+
+[W3 Schools R Tutorial](https://www.w3schools.com/r/default.asp)
+
+[R Graphics Cookbook](http://www.cookbook-r.com/)
+
+[tidyverse](https://www.tidyverse.org/)
+
+  - [dplyr](https://dplyr.tidyverse.org/)
+
+  - [ggplot](https://ggplot2.tidyverse.org/)
+
+### Big Data
+
+[Apache Hadoop Project ](https://hadoop.apache.org/)
+
+[Map Reduce](https://mrjob.readthedocs.io/en/latest/)
+
+[Apache Spark](https://spark.apache.org/)
+
+[Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
+
+[AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
