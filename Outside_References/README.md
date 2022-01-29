@@ -230,7 +230,13 @@ During our virtual classes several references come up. This attemps to capture m
 
 ### R
 
+[The Comprehensive R Archive Network](https://cran.r-project.org/)
+
 [R Introduction documentation](https://courses.bootcampspot.com/courses/941/pages/15-dot-2-1-fundamentals-of-r-programming?module_item_id=344077)
+
+[R Studio](https://www.rstudio.com/)
+
+[R Studio Cloud](https://www.rstudio.com/products/cloud/)
 
 [W3 Schools R Tutorial](https://www.w3schools.com/r/default.asp)
 
