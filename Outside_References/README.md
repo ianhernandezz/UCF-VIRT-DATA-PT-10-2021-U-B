@@ -238,6 +238,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [R Studio Cloud](https://www.rstudio.com/products/cloud/)
 
+[R Primers](https://rstudio.cloud/learn/primers)
+
 [W3 Schools R Tutorial](https://www.w3schools.com/r/default.asp)
 
 [R Graphics Cookbook](http://www.cookbook-r.com/)
