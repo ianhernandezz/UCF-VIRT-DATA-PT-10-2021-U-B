@@ -250,6 +250,8 @@ During our virtual classes several references come up. This attemps to capture m
 
   - [ggplot](https://ggplot2.tidyverse.org/)
 
+[R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
 ### Big Data
 
 [Apache Hadoop Project ](https://hadoop.apache.org/)
