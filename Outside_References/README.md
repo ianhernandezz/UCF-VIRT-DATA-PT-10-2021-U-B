@@ -7,6 +7,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Determining sample size based on confidence and margin of error - Khan Academy](https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/central-limit-theorem)
 
+[Khan Academy Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/p-values-and-significance-tests)
+
 ### General
 
 [Good Code Writing Practices (Helps in debugging and reading)](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
