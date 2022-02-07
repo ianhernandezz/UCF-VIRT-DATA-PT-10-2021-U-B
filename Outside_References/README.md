@@ -265,3 +265,6 @@ During our virtual classes several references come up. This attemps to capture m
 [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+
+### Supervised Machine Learning
+
