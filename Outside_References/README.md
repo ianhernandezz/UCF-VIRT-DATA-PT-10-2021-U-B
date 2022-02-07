@@ -266,5 +266,7 @@ During our virtual classes several references come up. This attemps to capture m
 
 [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
+[Real Python - How to use generators and understanding the python yeild statement](https://realpython.com/introduction-to-python-generators/#understanding-the-python-yield-statement)
+
 ### Supervised Machine Learning
 
