@@ -272,3 +272,18 @@ During our virtual classes several references come up. This attemps to capture m
 
 ### Supervised Machine Learning
 
+[Scikit-Learn](https://scikit-learn.org/stable/)
+
+[imbalanced learn](https://imbalanced-learn.org/stable/user_guide.html)
+
+[Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+[github link for Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow)
+
+
+
+
+
+### Unsupervised Machine Learning
