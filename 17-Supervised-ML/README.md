@@ -36,15 +36,7 @@ Here's a quick look at the lessons and assignments you'll cover in this module. 
 
 ### Links
 
-* [Apache Hadoop Project ](https://hadoop.apache.org/)
-
-* [Map Reduce](https://mrjob.readthedocs.io/en/latest/)
-
-* [Apache Spark](https://spark.apache.org/)
-
-* [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
-
-* [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+[Scikit-Learn](https://scikit-learn.org/stable/)
 
 
 ---
