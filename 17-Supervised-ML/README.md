@@ -38,6 +38,8 @@ Here's a quick look at the lessons and assignments you'll cover in this module. 
 
 [Scikit-Learn](https://scikit-learn.org/stable/)
 
+[imbalanced learn](https://imbalanced-learn.org/stable/user_guide.html)
+
 
 
 ---
