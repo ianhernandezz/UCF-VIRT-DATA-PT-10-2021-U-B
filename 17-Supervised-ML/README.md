@@ -39,6 +39,7 @@ Here's a quick look at the lessons and assignments you'll cover in this module. 
 [Scikit-Learn](https://scikit-learn.org/stable/)
 
 
+
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
