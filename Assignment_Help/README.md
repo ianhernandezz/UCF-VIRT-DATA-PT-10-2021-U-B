@@ -64,6 +64,7 @@ Note: this material is not to be shared. This is bonus support provided by your 
 <br>
 
 * Module 13: Mapping Earthquakes with Leaflet JS ![Module 13: Mapping Earthquakes with Leaflet JS](./Images/Earthquakes.png)
+  
   - Video 0 - module work to create a working leaflet map of earthquake data(https://zoom.us/rec/play/v-8iH4q7wCEdwzimkFLQflCj5M5JS1xol4qCF-iCe_0gZMjLT0qbZ_A[…]3OyQm484hq.RJ4jYbJGddTyzkrp?autoplay=true&startTime=1642861157000)
   - Video 1 - Deliverable 1 add tectonic plates (https://zoom.us/rec/play/SriiEwcN2dl7mi4uPvS-CNdajYCIknMz6nSm1F7e_Mibo1Pyl2lkcKb[…]7qzr9EKDyF.Uk8r0NxoGi96hche?autoplay=true&startTime=1642869329000)
   - Video 2 - Deliverable 2 add Major Earthquake (https://zoom.us/rec/play/VRkEHBLcYm73ubZR0EkqOhNp9AdLTTzEsVT2AilZVrm4b0f0ZSirBtx[…]dlU-9_AJwU.1FYBAXXKtjqqxSiP?autoplay=true&startTime=1642870257000)
@@ -78,7 +79,15 @@ Note: this material is not to be shared. This is bonus support provided by your 
 
 <br>
 
-* Module 16: Big Data with AWS ![Module 16: Big Data with AWS](./Images/MechaCar.png)(https://zoom.us/rec/play/-Y7bRLr62ZBxhg3n_aXRcMosQmZ72JlwYVz1DcXn4KaD8AZjx5A9mte[…]1QiId-3bji.qmBhdRuVsWEISaXQ?autoplay=true&startTime=1644073959000)
+* Module 16: Big Data with AWS ![Module 16: Big Data with AWS](./Images/MechaCar.png)
+  
+  - Deliverable 0: Prior to taking the steps in Deliverable 1
+    - you will need to create a AWS RDS (postgreSQL instance) and ensure that this database is publicly accessible (if you have questions on how to setup AWS RDS checkout this ETL video that reviews Day 2 Activity 04 ETL of employee information. You will need to load different data for Module 15 Challenge but the methodology is similar. (https://zoom.us/rec/play/cPsu9mlI_x2tydi6EBRV8pJyrlJFiKdvY6nRETnH5prPSxijAnn_G6h[…]Kt4zbNSs3a.dLm39NjHwU1YR9gx?autoplay=true&startTime=1644694519000)
+  - Deliverable 1 (timestamp 0 - 41 minutes) I assume you already have created an AWS RDS (postgreSQL instance)(https://zoom.us/rec/play/cIsw8tpY8d9geJzveybBf7x7zxuE9UGnFB9hk5DGIZ-SXbrguTC9QOr[…]BmU00HP33e.mGOm2e2M26otDA20?autoplay=true&startTime=1644868709000)
+
+
+  - Deliverable 2 & 3 (timestamp  41 minutes - end). You can choose if you want to do your analysis using Pandas (jupyter notebook) or using SQL (query using pgAdmin) or PySpark (google colab notebook).
+  - AWS Clean-up - Shutting Down Your Instances. After completing this assignment make sure to shut down your postgreSQL instance and delete your S3 bucket as recommended in the instructions. If you have questions on shutting down an RDS or deleting an S3 bucket reference module 16.9.2 and 16.9.3 to ensure you do not incur any unexpected charges.
 
 <br>
 
