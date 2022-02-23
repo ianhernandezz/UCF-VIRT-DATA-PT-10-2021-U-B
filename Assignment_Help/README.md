@@ -91,7 +91,29 @@ Note: this material is not to be shared. This is bonus support provided by your 
 
 <br>
 
-* Module 17: Supervised machine Learning with Sklearn ![Module 17: Supervised Learning with Sklearn](./Images/Supervised_ML_Credit_Risk.png)(To Be Published)
+* Module 17: Supervised machine Learning with Sklearn ![Module 17: Supervised Learning with Sklearn](./Images/Supervised_ML_Credit_Risk.png)
+  * Deliverable 0: Preprocessing the data using python, pandas, sklearn standard scaler (optional)<br>
+    - Video 1: Steps to clean the data (using python and pandas)
+  https://zoom.us/rec/play/ekUlAHHakTOIKlf-qlk7XfdBFWASXymL3kmNm0VSTILQMLyWZ6M165T[…]Lj6RIkT7RF.cnOXFP226qB0t4HF?autoplay=true&startTime=1645551146000 <br><br>
+    - Video 2: additional pre-preprocessing steps to put the data into the correct format. This includes using get_dummies from pandas to ensure our data is all numeric and (Optional standard scaler -from sklearn) to account for the difference in the values used in each column. (Optional Establish a Baseline) I also use logistics regression (without changes in sampling) to establish a baseline to compare the work we will do later.
+  https://zoom.us/rec/play/R9_mV4ClZuCYYJvXM1fV5CzId24rpEZfJvkefRCBBfSuXZXtyQ9Gscy[…]q3y4NyktmV.ppje-E1tT1m4u6EF?autoplay=true&startTime=1645555968000 
+  <br><br>
+
+  - Deliverable 1: Use Resampling Models to Predict Credit Risk <br>
+    - Video 3: This performs Resampling (both over and under). It performs oversampling using RandomOverSampler and SMOTE, and undersampling using ClusterCentroids. For get an accuracy score for each technique along with a confusion matrix and imbalanced classification report.
+  https://zoom.us/rec/play/s8AgBLfUZ0P8Iud8vFaEPS1v01zj54AO8dtwiUhXTHhOj_Tng7OvAlG[…]Zr1ohb_A6s.gxfnmYlf5eWG1o19?autoplay=true&startTime=1645558537000 <br><br>
+
+  - Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+    - Video 4: I follow the steps in module 17.10.3 Combination Sampling with SMOTEEN to resample the data using SMOTEEN and get an accuracy score for each technique along with a confusion matrix and imbalanced classification report. Note: in this video I created the model and then used the wrong model to find the resampled data. My mistake was using SMOTE vs. SMOTEENN When I "# Train the Logistic Regression model using the resampled data this was in cell 62 of my notebook).  Follow module 17.10.3
+  https://zoom.us/rec/play/1o2P2EI8mW9ucjzNUxaikanhCGSacJ984uv3tZHGxWjLF96DTa0f4B6[…]ZC151C2Gsg.JN4GFIhu8yFuMHFo?autoplay=true&startTime=1645562611000 <br><br>
+  - Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk <br>
+    - Video 5: Use the credit_risk_ensemble_starter_code.ipynb notebook. This starter code requires us to perform the same data cleaning / preprocessing steps we used for deliverable 1 & 2.   These preprocessing steps are performed in video 5. This model also starts the use of the BalancedRandomForestClassifier from imbalanced-learn
+  https://zoom.us/rec/play/BU6Rya1azBlyvDkBFfSS9JoIUMSuK7vJhWs3zWvJOCRCeoK99tbmVis[…]dOV9WygcXv.zrwYLl6q1W6LVfI6?autoplay=true&startTime=1645571837000 <br><br>
+
+    - Video 6:  I continue with my use of the BalancedRandomForestClassifier from imbalanced-learn and print the feature importance, sorted in descending order (from most to least important feature). I also use the EasyEnsembleClassifier ans assess its performance. The video ends with a review of the findings and updating my readme.md file
+  https://zoom.us/rec/play/IOijGqoQXgBzh55FblLnQPTtPQckcJIMeaqRuQABIK4t89RkMNv8ug-[…]4ns_s92PHO.F4zTYIpgOqHIltpy?autoplay=true&startTime=1645582331000 <br><br>
+
+  - Deliverable 4: A Written Report on the Credit Prediction Analysis - you can then use the images you saved (confusion matrix) and a snap-shot of the imbalanced classification report to compare each technique's ability to categorize our target "loan_status" as either "high_risk" and "low_risk."
 
 <br>
 
