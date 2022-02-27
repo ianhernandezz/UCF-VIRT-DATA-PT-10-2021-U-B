@@ -119,6 +119,8 @@ Note: this material is not to be shared. This is bonus support provided by your 
 
   - Deliverable 4: A Written Report on the Credit Prediction Analysis - you can then use the images you saved (confusion matrix) and a snap-shot of the imbalanced classification report to compare each technique's ability to categorize our target "loan_status" as either "high_risk" and "low_risk."
 
+  - Methodology: [Credit Methodology Available in Methodology folder](./Methodology/Credit_Risk_Methodology.pptx)
+
 <br>
 
 * Module 18: Unsupervised Machine earning with Sklearn ![Module 18: Unsupervised Machine earning with Sklearn](./Images/Crypocurrency.png)(To Be Published)
