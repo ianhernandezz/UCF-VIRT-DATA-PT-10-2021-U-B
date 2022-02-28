@@ -123,7 +123,13 @@ Note: this material is not to be shared. This is bonus support provided by your 
 
 <br>
 
-* Module 18: Unsupervised Machine earning with Sklearn ![Module 18: Unsupervised Machine earning with Sklearn](./Images/Crypocurrency.png)(To Be Published)
+* Module 18: Unsupervised Machine earning with Sklearn ![Module 18: Unsupervised Machine earning with Sklearn](./Images/Crypocurrency.png)
+* **Video 1: Deliverable 1** - (~90 minutes) Data Cleaning and Pre-Preprocessing using pandas. In this video I follow (most of ) the pseudo code provided in the starter code to clean the crypto_data.csv file. It starts with a crypto_df with a shape of 1242 rows and 7 columns and data cleaning ends with a dataframe with 531 rows and only 4 columns.  I broke the starter notebook into two notebooks (one on data cleaning and covers video 1).
+https://zoom.us/rec/play/KBzPt5stbL5ko2tDVqHWiXDB6HEfEgYtItOHOxGuP4b07OCUv5qxftMF5Oo5cml3LS_EtbwuC0Iq9E4.cUrcuvrAd19gBtDb?autoplay=true&startTime=1646060632000
+
+* **Video 2: Deliverable 2, 3, 4** - (~ 90 minutes) Reducing Data Dimensions Using Sklearn's PCA, and Clustering using K-means and then I created a 3D-scatter plot with plotly.express and a 2D scatter plot of TotalCoinsMined vs TotalCoinsSupply using hvPlot. I also created an html table using hvPlot of all the currently trading (and mined) cryptocurrencies in the dataset provided. Note I made the methodology after going through the starter code. If I had to do it again I would have created the methodology slide first as this could have helped me keep better track of my progress in meeting each of the 4 deliverables.
+https://zoom.us/rec/play/cRnjRYbG0lM-ZxLvjPvCsx9R8H862ntwq83Z-9Il6Xe1bFsQhng_WVG4itZqxtsAFWbQzMIz_DRmFB5n.lVi9dl0XbONXXpBH?autoplay=true&startTime=1646067875000
+
 
 <br>
 
