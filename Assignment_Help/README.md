@@ -133,4 +133,14 @@ https://zoom.us/rec/play/cRnjRYbG0lM-ZxLvjPvCsx9R8H862ntwq83Z-9Il6Xe1bFsQhng_WVG
 
 <br>
 
-* Module 19: Neural Networks and Deep Learning with TensorFlow ![Module 19: Neural Networks and Deep Learning with TensorFlow](./Images/Evironmental_Charity_Success.png)(To be Publlished)
+* Module 19: Neural Networks and Deep Learning with TensorFlow ![Module 19: Neural Networks and Deep Learning with TensorFlow](./Images/Evironmental_Charity_Success.png)
+* **Video 1 - Deliverable 1: Preprocessing Data for a Neural Network Model.** This takes in the charity_data.csv and creates a DataFrame and performs some feature selection and data cleaning. OneHotEncoder is used to transform categorical values into numeric values and the resulting df is merged with the original DataFrame. The data is split into the Feature Matrix (X) and y and the data in the feature matrix (X) is scaled using StandardScaler.
+https://zoom.us/rec/play/xm1ZK6DBRFft2U1ZzRH0uzldjB4CA6iyxbpiLDIwHGulCiNZNCefHoJlvGiTVJSEZtgkZUBYWBtshMzU.J3jXMmQzK9_ciysG?autoplay=true&startTime=1646407059000
+
+* **Video 2 - Deliverable 2: Compile, Train, and Evaluate the Neural Network Model.** This continues with the work done in Video 1 and defines a model, compiles and trains a model, evaluates the model and saves the model.
+https://zoom.us/rec/play/di5DEVwwVzaDkmVIeZz5l-vF3V9dBP-ZV1j6VmqtLKrYRxiPity_UVuVRgNY3c2KJcMI_SvRnHEyQ0se.L5Pz6hOgX_49i1Ks?autoplay=true&startTime=1646413742000
+
+* **Video 3 - Deliverable 3: Optimize the Model.** This video includes three separate models in an effort to reach a predictive accuracy higher than 75% using the following techniques: dropping more or fewer columns, creating more bins for rare occurrences in columns, increasing or decreasing the number of values for each bin.  Other techniques include modifying the Neural Network Module by adding more neurons to a hidden layer, adding more hidden layers, using different activation functions for the hidden layers or adding or reducing the number of epochs to the training regimen. I ran an additional RandomForestClassifier model for comparison and to identify which features it identified as most important.
+https://zoom.us/rec/play/HnuXFAYZRdHtitgzS7zBweKld3zsO_8g5xSGxbUE_uistPfmnAyv9RkFfoWjXeKmfBOvzwl7SP-JXBy1.WcgqHYTtgaSOKPxB?autoplay=true&startTime=1646442510000
+
+  - Methodology: A Methodology is available in the Methodology folder under "Methodology_Neural-Networks.pptx"
