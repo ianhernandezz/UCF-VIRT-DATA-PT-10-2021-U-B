@@ -284,8 +284,16 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Machine Learning Checklist by Aurelien Geron](https://github.com/ageron/handson-ml2/blob/master/ml-project-checklist.md)
 
-
-
-
-
 ### Unsupervised Machine Learning
+
+[Plotly Python](https://plotly.com/python/)
+
+[hvPlot](https://hvplot.holoviz.org/)
+
+### Neural-Networks
+
+[Tensor Flow](https://www.tensorflow.org/overview/)
+
+[Tensor Flow Playground](https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1&seed=0.10587&showTestData=false&discretize=true&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&discretize_hide=true&regularization_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&showTestData_hide=true&noise_hide=true&batchSize_hide=true)
+
+[Tensor Flow & Keras](https://www.tensorflow.org/guide/keras/sequential_model)
