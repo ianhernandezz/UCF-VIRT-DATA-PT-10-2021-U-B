@@ -282,6 +282,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [github link for Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow)
 
+[Machine Learning Checklist by Aurelien Geron](https://github.com/ageron/handson-ml2/blob/master/ml-project-checklist.md)
+
 
 
 
