@@ -83,7 +83,7 @@ Note: this material is not to be shared. This is bonus support provided by your 
 
 <br>
 
-* Module 16: Big Data with AWS ![Module 16: Big Data with AWS](./Images/MechaCar.png)
+* Module 16: Big Data with AWS ![Module 16: Big Data with AWS](./Images/BigData.png)
   
   - Deliverable 0: Prior to taking the steps in Deliverable 1
     - you will need to create a AWS RDS (postgreSQL instance) and ensure that this database is publicly accessible (if you have questions on how to setup AWS RDS checkout this ETL video that reviews Day 2 Activity 04 ETL of employee information. You will need to load different data for Module 15 Challenge but the methodology is similar. (https://zoom.us/rec/play/cPsu9mlI_x2tydi6EBRV8pJyrlJFiKdvY6nRETnH5prPSxijAnn_G6hA3WaoBrx6Xb4x_oKt4zbNSs3a.dLm39NjHwU1YR9gx?autoplay=true&startTime=1644694519000)
