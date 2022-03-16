@@ -297,3 +297,11 @@ During our virtual classes several references come up. This attemps to capture m
 [Tensor Flow Playground](https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1&seed=0.10587&showTestData=false&discretize=true&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&discretize_hide=true&regularization_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&showTestData_hide=true&noise_hide=true&batchSize_hide=true)
 
 [Tensor Flow & Keras](https://www.tensorflow.org/guide/keras/sequential_model)
+
+## Final Project Links
+
+* [Dashboard Design: best practices and examples](https://www.justinmind.com/blog/dashboard-design-best-practices-ux-ui/)
+
+* [20 Dashboard Design Principles & Best Practices To Enhance Your Data Analysis](https://www.datapine.com/blog/dashboard-design-principles-and-best-practices/)
+
+* [Dashboard Design - Considerations and Best Practices](https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices)
