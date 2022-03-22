@@ -307,3 +307,5 @@ During our virtual classes several references come up. This attemps to capture m
 * [20 Dashboard Design Principles & Best Practices To Enhance Your Data Analysis](https://www.datapine.com/blog/dashboard-design-principles-and-best-practices/)
 
 * [Dashboard Design - Considerations and Best Practices](https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices)
+
+* [Tableau Public's Sharing Option to use Embeded Code](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-share.htm)
