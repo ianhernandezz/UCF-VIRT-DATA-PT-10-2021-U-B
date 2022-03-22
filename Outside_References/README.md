@@ -284,6 +284,8 @@ During our virtual classes several references come up. This attemps to capture m
 
 [Machine Learning Checklist by Aurelien Geron](https://github.com/ageron/handson-ml2/blob/master/ml-project-checklist.md)
 
+[Machine Learning Checklist by Jason Brownlee](https://machinelearningmastery.com/machine-learning-checklist/)
+
 ### Unsupervised Machine Learning
 
 [Plotly Python](https://plotly.com/python/)
