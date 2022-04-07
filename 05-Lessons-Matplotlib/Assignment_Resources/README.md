@@ -1,4 +1,4 @@
-# Challenge Solution Grading Instructions
+# Challenge Expanded Instructions
 
 The objective of this challenge is for learners to create a summary DataFrame of the key metrics for the ride-sharing data by city type, and then they'll use two new Pandas functions, `pivot()` and `resample()` with Matplotlib to create a multiple-line graph that shows the total fares for each week by city type. Finally, the learners will write a report on the results of the new analysis.
 
